@@ -34,6 +34,24 @@ and that's how you store pixel art consisting of multiple frames that are made u
 
 the format may not be effiecient but it's very easy to read & write.
 
+### Example Structure
+
+```
+/Info.ini
+
+/F0/0.Background
+/F0/1.Player
+/F0/2.Car
+
+/F1/0.Background
+/F1/1.Player
+/F1/2.Car
+
+/F2/0.Background
+/F2/1.Player
+/F2/2.Car
+```
+
 ---
 ### License
 
